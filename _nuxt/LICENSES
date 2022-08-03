@@ -1,21 +1,14 @@
-/*!
-  * vue-router v3.5.4
-  * (c) 2022 Evan You
-  * @license MIT
-  */
-
-/*!
- * Vue.js v2.7.8
- * (c) 2014-2022 Evan You
- * Released under the MIT License.
- */
-
-
 /*
 object-assign
 (c) Sindre Sorhus
 @license MIT
 */
+
+/*!
+  * vue-router v3.5.4
+  * (c) 2022 Evan You
+  * @license MIT
+  */
 
 /*!
  * The buffer module from node.js, for the browser.
@@ -29,6 +22,12 @@ object-assign
  *
  * @author   Feross Aboukhadijeh <http://feross.org>
  * @license  MIT
+ */
+
+/*!
+ * Vue.js v2.7.8
+ * (c) 2014-2022 Evan You
+ * Released under the MIT License.
  */
 
 /*!
@@ -65,6 +64,8 @@ object-assign
  * Released under the MIT License.
  */
 
+/*! For license information please see LICENSES */
+
 /*! crc32.js (C) 2014-present SheetJS -- http://sheetjs.com */
 
 /*! https://mths.be/punycode v1.4.1 by @mathias */
@@ -90,6 +91,23 @@ object-assign
  * @copyright Chen, Yi-Cyuan 2015-2016
  * @license MIT
  */
+
+/**
+ * [js-sha3]{@link https://github.com/emn178/js-sha3}
+ *
+ * @version 0.8.0
+ * @author Chen, Yi-Cyuan [emn178@gmail.com]
+ * @copyright Chen, Yi-Cyuan 2015-2018
+ * @license MIT
+ */
+
+
+/*!
+ * Vue.js v2.7.8
+ * (c) 2014-2022 Evan You
+ * Released under the MIT License.
+ */
+
 
 /**
  * [js-sha3]{@link https://github.com/emn178/js-sha3}
