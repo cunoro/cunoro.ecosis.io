@@ -1,14 +1,21 @@
-/*
-object-assign
-(c) Sindre Sorhus
-@license MIT
-*/
-
 /*!
   * vue-router v3.5.4
   * (c) 2022 Evan You
   * @license MIT
   */
+
+/*!
+ * Vue.js v2.7.8
+ * (c) 2014-2022 Evan You
+ * Released under the MIT License.
+ */
+
+
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
 
 /*!
  * The buffer module from node.js, for the browser.
@@ -22,12 +29,6 @@ object-assign
  *
  * @author   Feross Aboukhadijeh <http://feross.org>
  * @license  MIT
- */
-
-/*!
- * Vue.js v2.7.8
- * (c) 2014-2022 Evan You
- * Released under the MIT License.
  */
 
 /*!
@@ -102,8 +103,8 @@ object-assign
  */
 
 
-/*!
- * Vue.js v2.7.8
- * (c) 2014-2022 Evan You
- * Released under the MIT License.
- */
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
